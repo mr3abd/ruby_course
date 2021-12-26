@@ -53,3 +53,8 @@ students = [
         name: "Mohamed"
     }
 ]
+selceted_students = []
+students.each_cons(2) {|currentStudent,nextStudent|
+        selceted_students.append(currentStudent) if (currentStudent[:id] + nextStudent[:id]) < 10}
+        
+p selceted_students
