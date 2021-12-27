@@ -6,12 +6,12 @@ def hello
     x == "exit" ? abort("Done Exit")  : x = x.to_i
     # Incase add without number ?
     if x > 5
-        p "X smaller 5"
+        p "X Bigger 5"
     elsif x == 0
         p "Please  Add Your number Again that not number Value or 0 "
         hello
     else
-        p "X Bigger than 5"
+        p "X Smaller than 5"
     end
 end
 
@@ -44,3 +44,4 @@ def first_method
      "Hello Without return"
 end
 # p first_method
+hello
