@@ -40,4 +40,7 @@ def school
     p students
 end
 
-school
+def first_method 
+     "Hello Without return"
+end
+# p first_method
