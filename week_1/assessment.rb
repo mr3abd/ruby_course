@@ -53,8 +53,27 @@ students = [
         name: "Mohamed"
     }
 ]
+
+
 selceted_students = []
 students.each_cons(2) {|currentStudent,nextStudent|
         selceted_students.append(currentStudent) if (currentStudent[:id] + nextStudent[:id]) < 10}
         
+ 
 p selceted_students
+
+# Second Solution :D 
+
+# new_students = []
+# for x in 0..students.length-1 do
+#     next_element = students[x+1]
+#     if  next_element != nil && students[x].fetch(:id) + next_element.fetch(:id) < 10
+#         puts students[x].fetch(:id) + next_element.fetch(:id)
+#         new_students << students[x]
+#     end
+   
+# end
+# puts new_students
+ 
+#  puts students.keep_if{|key| students[1+ students.find_index(key)] != nil && key.fetch(:id) + students[1+ students.find_index(key)].fetch(:id) <10}
+
