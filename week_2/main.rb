@@ -39,9 +39,20 @@ def school
     p "#######"
     p students
 end
-
+def looping
+x = 2 
+    while x <= 8
+        p x
+        if x == 4
+            x += 2
+            redo
+        end
+        x += 1 
+        p "Done Collect"
+    end
+end
 def first_method 
      "Hello Without return"
 end
 # p first_method
-hello
+looping
