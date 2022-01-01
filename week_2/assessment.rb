@@ -25,13 +25,11 @@ def game
             return "Success! ^_^"
         else 
             puts "Wrong answer! :("
-            if iter == 2
-                puts "You failed to guess the correct number it was #{random_num} :("
-                return "Failed :("
-            end
             puts "You have another chance"
         end
     }
+    puts "You failed to guess the correct number it was #{random_num} :("
+    return "Failed :("
 end
 
 puts game
