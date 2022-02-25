@@ -66,6 +66,8 @@ p "_-" * 20
 File.write(path2 , "JUST TESTING")
 p File.readlines(path2)
 
+p "h" * 7
+p File.size(path2).to_s + " bytes"
 
 
 ###
@@ -75,5 +77,5 @@ File.rename(path3 , new_path3)
 
 File.delete(new_path3)
 
-# Copy
+# Copy or move or remove
 FileUtils.copy('token.txt' , 'copy_token.txt')
