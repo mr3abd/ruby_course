@@ -81,3 +81,6 @@ File.delete(new_path3)
 FileUtils.copy('token.txt' , 'copy_token.txt')
 
 # check https://ruby-doc.org/core-2.5.0/File.html
+
+
+# CSV + Json
