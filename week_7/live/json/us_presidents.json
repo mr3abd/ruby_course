@@ -1,0 +1,454 @@
+{
+  "us_presidents": [
+    {
+      "end": "1797",
+      "first_name": "George",
+      "last_name": "Washington",
+      "number": "1",
+      "party": "Independent",
+      "start": "1789",
+      "state": "Virginia",
+      "wikipedia": "https://en.wikipedia.org/wiki/George_Washington"
+    },
+    {
+      "end": "1801",
+      "first_name": "John",
+      "last_name": "Adams",
+      "number": "2",
+      "party": "Federalist",
+      "start": "1797",
+      "state": "Massachusetts",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Adams"
+    },
+    {
+      "end": "1809",
+      "first_name": "Thomas",
+      "last_name": "Jefferson",
+      "number": "3",
+      "party": "Democratic-Republican",
+      "start": "1801",
+      "state": "Virginia",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Jefferson"
+    },
+    {
+      "end": "1817",
+      "first_name": "James",
+      "last_name": "Madison",
+      "number": "4",
+      "party": "Democratic-Republican",
+      "start": "1809",
+      "state": "Virginia",
+      "wikipedia": "https://en.wikipedia.org/wiki/James_Madison"
+    },
+    {
+      "end": "1825",
+      "first_name": "James",
+      "last_name": "Monroe",
+      "number": "5",
+      "party": "Democratic-Republican",
+      "start": "1817",
+      "state": "Virginia",
+      "wikipedia": "https://en.wikipedia.org/wiki/James_Monroe"
+    },
+    {
+      "end": "1829",
+      "first_name": "John Q.",
+      "last_name": "Adams",
+      "number": "6",
+      "party": "Democratic-Republican/National Republican",
+      "start": "1825",
+      "state": "Massachusetts",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Quincy_Adams"
+    },
+    {
+      "end": "1837",
+      "first_name": "Andrew",
+      "last_name": "Jackson",
+      "number": "7",
+      "party": "Democratic",
+      "start": "1829",
+      "state": "Tennessee",
+      "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Jackson"
+    },
+    {
+      "end": "1841",
+      "first_name": "Martin",
+      "last_name": "Van Buren",
+      "number": "8",
+      "party": "Democratic",
+      "start": "1837",
+      "state": "New York",
+      "wikipedia": "https://en.wikipedia.org/wiki/Martin_Van_Buren"
+    },
+    {
+      "end": "1841",
+      "first_name": "William H.",
+      "last_name": "Harrison",
+      "number": "9",
+      "party": "Whig",
+      "start": "1841",
+      "state": "Ohio",
+      "wikipedia": "https://en.wikipedia.org/wiki/William_Henry_Harrison"
+    },
+    {
+      "end": "1845",
+      "first_name": "John",
+      "last_name": "Tyler",
+      "number": "10",
+      "party": "Whig",
+      "start": "1841",
+      "state": "Virginia",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Tyler"
+    },
+    {
+      "end": "1849",
+      "first_name": "James K.",
+      "last_name": "Polk",
+      "number": "11",
+      "party": "Democratic",
+      "start": "1845",
+      "state": "Tennessee",
+      "wikipedia": "https://en.wikipedia.org/wiki/James_K._Polk"
+    },
+    {
+      "end": "1850",
+      "first_name": "Zachary",
+      "last_name": "Taylor",
+      "number": "12",
+      "party": "Whig",
+      "start": "1849",
+      "state": "Louisiana",
+      "wikipedia": "https://en.wikipedia.org/wiki/Zachary_Taylor"
+    },
+    {
+      "end": "1853",
+      "first_name": "Millard",
+      "last_name": "Fillmore",
+      "number": "13",
+      "party": "Whig",
+      "start": "1850",
+      "state": "New York",
+      "wikipedia": "https://en.wikipedia.org/wiki/Millard_Fillmore"
+    },
+    {
+      "end": "1857",
+      "first_name": "Franklin",
+      "last_name": "Pierce",
+      "number": "14",
+      "party": "Democratic",
+      "start": "1853",
+      "state": "New Hampshire",
+      "wikipedia": "https://en.wikipedia.org/wiki/Franklin_Pierce"
+    },
+    {
+      "end": "1861",
+      "first_name": "James",
+      "last_name": "Buchanan",
+      "number": "15",
+      "party": "Democratic",
+      "start": "1857",
+      "state": "Pennsylvania",
+      "wikipedia": "https://en.wikipedia.org/wiki/James_Buchanan"
+    },
+    {
+      "end": "1865",
+      "first_name": "Abraham",
+      "last_name": "Lincoln",
+      "number": "16",
+      "party": "Republican/National Union",
+      "start": "1861",
+      "state": "Illinois",
+      "wikipedia": "https://en.wikipedia.org/wiki/Abraham_Lincoln"
+    },
+    {
+      "end": "1869",
+      "first_name": "Andrew",
+      "last_name": "Johnson",
+      "number": "17",
+      "party": "Democratic/National Union",
+      "start": "1865",
+      "state": "Tennessee",
+      "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Johnson"
+    },
+    {
+      "end": "1877",
+      "first_name": "Ulysses S.",
+      "last_name": "Grant",
+      "number": "18",
+      "party": "Republican",
+      "start": "1869",
+      "state": "Ohio",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ulysses_S._Grant"
+    },
+    {
+      "end": "1881",
+      "first_name": "Rutherford B.",
+      "last_name": "Hayes",
+      "number": "19",
+      "party": "Republican",
+      "start": "1877",
+      "state": "Ohio",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rutherford_B._Hayes"
+    },
+    {
+      "end": "1881",
+      "first_name": "James A.",
+      "last_name": "Garfield",
+      "number": "20",
+      "party": "Republican",
+      "start": "1881",
+      "state": "Ohio",
+      "wikipedia": "https://en.wikipedia.org/wiki/James_A._Garfield"
+    },
+    {
+      "end": "1885",
+      "first_name": "Chester A.",
+      "last_name": "Arthur",
+      "number": "21",
+      "party": "Republican",
+      "start": "1881",
+      "state": "New York",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chester_A._Arthur"
+    },
+    {
+      "end": "1889",
+      "first_name": "Grover",
+      "last_name": "Cleveland",
+      "number": "22",
+      "party": "Democratic",
+      "start": "1885",
+      "state": "New York",
+      "wikipedia": "https://en.wikipedia.org/wiki/Grover_Cleveland"
+    },
+    {
+      "end": "1893",
+      "first_name": "Benjamin",
+      "last_name": "Harrison",
+      "number": "23",
+      "party": "Republican",
+      "start": "1889",
+      "state": "Indiana",
+      "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Harrison"
+    },
+    {
+      "end": "1897",
+      "first_name": "Grover",
+      "last_name": "Cleveland",
+      "number": "24",
+      "party": "Democratic",
+      "start": "1893",
+      "state": "New York",
+      "wikipedia": "https://en.wikipedia.org/wiki/Grover_Cleveland"
+    },
+    {
+      "end": "1901",
+      "first_name": "William",
+      "last_name": "McKinley",
+      "number": "25",
+      "party": "Republican",
+      "start": "1897",
+      "state": "Ohio",
+      "wikipedia": "https://en.wikipedia.org/wiki/William_McKinley"
+    },
+    {
+      "end": "1909",
+      "first_name": "Theodore",
+      "last_name": "Roosevelt",
+      "number": "26",
+      "party": "Republican",
+      "start": "1901",
+      "state": "New York",
+      "wikipedia": "https://en.wikipedia.org/wiki/Theodore_Roosevelt"
+    },
+    {
+      "end": "1913",
+      "first_name": "William H.",
+      "last_name": "Taft",
+      "number": "27",
+      "party": "Republican",
+      "start": "1909",
+      "state": "Ohio",
+      "wikipedia": "https://en.wikipedia.org/wiki/William_Howard_Taft"
+    },
+    {
+      "end": "1921",
+      "first_name": "Woodrow",
+      "last_name": "Wilson",
+      "number": "28",
+      "party": "Democratic",
+      "start": "1913",
+      "state": "New Jersey",
+      "wikipedia": "https://en.wikipedia.org/wiki/Woodrow_Wilson"
+    },
+    {
+      "end": "1923",
+      "first_name": "Warren G.",
+      "last_name": "Harding",
+      "number": "29",
+      "party": "Republican",
+      "start": "1921",
+      "state": "Ohio",
+      "wikipedia": "https://en.wikipedia.org/wiki/Warren_G._Harding"
+    },
+    {
+      "end": "1929",
+      "first_name": "Calvin",
+      "last_name": "Coolidge",
+      "number": "30",
+      "party": "Republican",
+      "start": "1923",
+      "state": "Massachusetts",
+      "wikipedia": "https://en.wikipedia.org/wiki/Calvin_Coolidge"
+    },
+    {
+      "end": "1933",
+      "first_name": "Herbert",
+      "last_name": "Hoover",
+      "number": "31",
+      "party": "Republican",
+      "start": "1929",
+      "state": "Iowa",
+      "wikipedia": "https://en.wikipedia.org/wiki/Herbert_Hoover"
+    },
+    {
+      "end": "1945",
+      "first_name": "Franklin D.",
+      "last_name": "Roosevelt",
+      "number": "32",
+      "party": "Democratic",
+      "start": "1933",
+      "state": "New York",
+      "wikipedia": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt"
+    },
+    {
+      "end": "1953",
+      "first_name": "Harry S.",
+      "last_name": "Truman",
+      "number": "33",
+      "party": "Democratic",
+      "start": "1945",
+      "state": "Missouri",
+      "wikipedia": "https://en.wikipedia.org/wiki/Harry_S._Truman"
+    },
+    {
+      "end": "1961",
+      "first_name": "Dwight D.",
+      "last_name": "Eisenhower",
+      "number": "34",
+      "party": "Republican",
+      "start": "1953",
+      "state": "Texas",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower"
+    },
+    {
+      "end": "1963",
+      "first_name": "John F.",
+      "last_name": "Kennedy",
+      "number": "35",
+      "party": "Democratic",
+      "start": "1961",
+      "state": "Massachusetts",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_F._Kennedy"
+    },
+    {
+      "end": "1969",
+      "first_name": "Lyndon B.",
+      "last_name": "Johnson",
+      "number": "36",
+      "party": "Democratic",
+      "start": "1963",
+      "state": "Texas",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lyndon_B._Johnson"
+    },
+    {
+      "end": "1974",
+      "first_name": "Richard",
+      "last_name": "Nixon",
+      "number": "37",
+      "party": "Republican",
+      "start": "1969",
+      "state": "California",
+      "wikipedia": "https://en.wikipedia.org/wiki/Richard_Nixon"
+    },
+    {
+      "end": "1977",
+      "first_name": "Gerald",
+      "last_name": "Ford",
+      "number": "38",
+      "party": "Republican",
+      "start": "1974",
+      "state": "Michigan",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gerald_Ford"
+    },
+    {
+      "end": "1981",
+      "first_name": "Jimmy",
+      "last_name": "Carter",
+      "number": "39",
+      "party": "Democratic",
+      "start": "1977",
+      "state": "Georgia",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jimmy_Carter"
+    },
+    {
+      "end": "1989",
+      "first_name": "Ronald",
+      "last_name": "Reagan",
+      "number": "40",
+      "party": "Republican",
+      "start": "1981",
+      "state": "California",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ronald_Reagan"
+    },
+    {
+      "end": "1993",
+      "first_name": "George H. W.",
+      "last_name": "Bush",
+      "number": "41",
+      "party": "Republican",
+      "start": "1989",
+      "state": "Texas",
+      "wikipedia": "https://en.wikipedia.org/wiki/George_H._W._Bush"
+    },
+    {
+      "end": "2001",
+      "first_name": "Bill",
+      "last_name": "Clinton",
+      "number": "42",
+      "party": "Democratic",
+      "start": "1993",
+      "state": "Arkansas",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bill_Clinton"
+    },
+    {
+      "end": "2009",
+      "first_name": "George W.",
+      "last_name": "Bush",
+      "number": "43",
+      "party": "Republican",
+      "start": "2001",
+      "state": "Texas",
+      "wikipedia": "https://en.wikipedia.org/wiki/George_W._Bush"
+    },
+    {
+      "end": "2017",
+      "first_name": "Barack",
+      "last_name": "Obama",
+      "number": "44",
+      "party": "Democratic",
+      "start": "2009",
+      "state": "Illinois",
+      "wikipedia": "https://en.wikipedia.org/wiki/Barack_Obama"
+    },
+    {
+      "end": "2022",
+      "first_name": "Donald",
+      "last_name": "Trump",
+      "number": "45",
+      "party": "Republican",
+      "start": "2017",
+      "state": "New York",
+      "wikipedia": "https://en.wikipedia.org/wiki/Donald_Trump"
+    }
+  ]
+}
